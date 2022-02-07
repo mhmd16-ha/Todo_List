@@ -75,7 +75,7 @@ form input[type=submit] {
 @media (max-width:500px) {
  
   .Container {
-    width: 100%;
+    width: 90%;
     margin: 10% auto;
   }
 }
