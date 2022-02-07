@@ -1,5 +1,4 @@
 import React from "react";
-import "./ToDoItems.css";
 
 const ToDoItems = (props) => {
   const { items ,deletItem ,lenght } = props;
